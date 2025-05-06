@@ -1,1 +1,1 @@
-# logpi
+# LogPI
